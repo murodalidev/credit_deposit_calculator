@@ -24,20 +24,20 @@ calculator = Calculator(
 )
 ```
 
-# Differensial usuli
+# 1.1 Differensial usuli
 
 ```python
 result = calculator.differential()
 print(result)
 ```
 
-# Annuitet usuli
-```
+# 1.2 Annuitet usuli
+```python
 result = calculator.annuity()
 print(result)
 ```
 
-# Natija
+# 1.3 Natija
 ```python
 {
   "options": {
@@ -53,7 +53,7 @@ print(result)
       1,            # Oy
       "593686.96",  # Foiz qismi
       "166666.67",  # Asosiy qarz
-      "760353.63",  # Umumit to'lov
+      "760353.63",  # Umumiy oylik to'lov
       "7406313.04"  # Qoldiq qarz
     ],
     ...
@@ -79,7 +79,7 @@ result = deposit.deposit_calculator()
 print(result)
 ```
 
-# Natija
+# 2.1 Natija
 
 ```python
 {
