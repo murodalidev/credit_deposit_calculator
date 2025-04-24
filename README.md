@@ -6,7 +6,7 @@ Kredit va omonat hisoblovchi oddiy Python kutubxonasi.
 ## O'rnatish
 
 ```bash
-pip install credit_deposit_calculator
+pip install credit-deposit-calculator
 ```
 
 
